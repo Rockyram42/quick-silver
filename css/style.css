@@ -1,0 +1,16 @@
+.web-none{
+    display: none;
+}
+.mobile-nav{
+    width: 100%;
+    height: auto;
+    background-color: #ebf4f8;
+    padding: 10px 15px;
+}
+.open .aside{
+    display: block !important;
+}
+.open .aside{
+    top: 60px;
+    
+}
